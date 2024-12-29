@@ -143,6 +143,11 @@ include("../Functions/functions.php");
 			background-color: #f5f8fa;
 			text-align: center;
 			background-size: 100% 100%;
+			background-image: url('../Images/Website/Farmer.jpg');
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+
 
 		}
 
